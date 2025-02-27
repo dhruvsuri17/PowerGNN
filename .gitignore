@@ -1,2 +1,3 @@
 *.pklvenv/
 notebooks/data/parsed/builder.pkl
+data/parsed/builder.pkl
