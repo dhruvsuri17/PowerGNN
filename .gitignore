@@ -1,1 +1,2 @@
-*.pkl
+*.pklvenv/
+notebooks/data/parsed/builder.pkl
