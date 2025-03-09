@@ -2,3 +2,6 @@
 notebooks/data/parsed/builder.pkl
 data/parsed/builder.pkl
 data/parsed/builder.pkl
+venv/
+*.dylib
+data/parsed/extended_forecasting_results.pkl
