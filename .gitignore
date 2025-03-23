@@ -5,3 +5,8 @@ data/parsed/builder.pkl
 venv/
 *.dylib
 data/parsed/extended_forecasting_results.pkl
+data/
+results/
+///bfg-report
+bfg-report/
+//bfg-report
